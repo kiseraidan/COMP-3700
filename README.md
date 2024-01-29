@@ -1,5 +1,5 @@
 # COMP-3700
-- 💻 Software Construction<br />
+- 💻 Software Modeling & Design<br />
 - :fire: Dr. Xuechao Li<br />
 - 📚 Auburn University
 
